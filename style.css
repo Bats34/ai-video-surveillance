@@ -1,0 +1,28 @@
+body {
+    background-size: cover;
+    background-position: center;
+}
+#number_objects,#status,#button {
+font-size:20px;
+}
+canvas {
+    border: 3px solid white;
+    border-radius: 10px;
+    box-shadow:5px 5px 5px purple;
+    margin-top: 105px;
+}
+.copyrightfooter{
+    position: fixed;
+    background-color: crimson;
+    color: yellow;
+    bottom: 0;
+    text-align: center;
+    line-height: 3;
+    width:100%;
+    font-size:20px;
+}
+.heading {
+    width: 100%;
+    font-size: 30px;
+    margin: 0px;
+}
